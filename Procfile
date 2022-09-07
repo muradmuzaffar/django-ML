@@ -1,1 +1,1 @@
-web: gunicorn mldeployement.wsgi
+web: gunicorn mysite.wsgi --log-file
